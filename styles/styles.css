@@ -4,9 +4,13 @@ body{
     font-family: 'Lobster', cursive;
     font-size: 16px;
     color: #FE9000;
+    background: url(images/main-bg.jpg);
 }
 .header{
-    max-width: 45rem;
+    width: 60%;
+    max-width: 1080px;
     text-align: center;
-    background-image: url(./images/);
+}
+.main-heading{
+    
 }
